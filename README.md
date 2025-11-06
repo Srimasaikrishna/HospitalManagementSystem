@@ -14,7 +14,7 @@ An **end-to-end Hospital Management System** developed using **Java Spring Boot*
 ## Technology Stack
 
 - **Backend**: Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate
-- **Database**: MySQL (or H2 for in-memory testing)
+- **Database**: MySQL
 - **Frontend**:  React
 - **Build Tool**: Maven
 - **Security**: Spring Security
